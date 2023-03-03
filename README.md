@@ -4,7 +4,7 @@
 
 ## 1. Определите, на каком протоколе работает сайт youtube.com.
 
-[![1-protocol.jpg](https://i.postimg.cc/sDQW4kYL/1-protocol.jpg)](https://postimg.cc/RNmqMbb1)
+[![1-protocol.jpg](https://i.postimg.cc/ZRn5v5DM/1-protocol.jpg)](https://postimg.cc/vgRspbyr)
 
 Мы видим, что youtube.com имеет расширение протокола HTTP - HTTPS, то есть дополнительно включает в себя криптографические протоколы для защиты данных.
 
